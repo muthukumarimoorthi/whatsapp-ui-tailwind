@@ -24,15 +24,15 @@ I have created a created a Whatsapp UI using tailwindcss.This is my 4th in my In
 
 ### You can Acces it through[live link](https://muthukumarimoorthi.github.io/whatsapp-ui-tailwind/calls.html)
 
-### Screenshots
+### Screenshot
    
-![Whatsapp UI in mobile](/Community_Page.png)
-
+![Whatsapp UI in mobile](./Chat_Page.png)
+<!-- 
 ![Whatsapp UI in mobile](/Chat_Page.png)
 
 ![Whatsapp UI in mobile](/Status_Page.png) 
 
-![Whatsapp UI in mobile](/Calls_Page.png)  
+![Whatsapp UI in mobile](/Calls_Page.png)   -->
 
 
 ## Internship
