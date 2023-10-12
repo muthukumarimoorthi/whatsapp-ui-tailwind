@@ -26,7 +26,7 @@ I have created a created a Whatsapp UI using tailwindcss.This is my 4th in my In
 
 ### Screenshot
    
-![Whatsapp UI in mobile](./Chat_Page.png)
+![Whatsapp UI in mobile](/Chat_Page.png)
 <!-- 
 ![Whatsapp UI in mobile](/Chat_Page.png)
 
