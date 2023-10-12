@@ -1,4 +1,4 @@
-# Instagram Ui Design
+# Whatsapp UI Design
  ---
 Whatsapp UI design using tailwindcss.
 
